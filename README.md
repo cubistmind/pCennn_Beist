@@ -1,2 +1,2 @@
 # ___being_pCB-eist
-welcome to tHe world of my own custom pcB's
+welcome to the world of my own custom pcB's
