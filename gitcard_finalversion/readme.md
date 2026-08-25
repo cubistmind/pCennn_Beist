@@ -1,5 +1,9 @@
 # PCB gitcard -stuckatprototype
 
+https://github.com/user-attachments/assets/f05b40d1-0cd9-4672-8ce3-ce2a0b937675
+
+
+
 A custom PCB based "emniii😞😞" card that lets you play a version of Flappy Bird
 
 ## Project Structure
