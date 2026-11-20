@@ -3,7 +3,7 @@
 <img width="892" height="500" alt="USB TO SERIAL UART CONVERTERo" src="https://github.com/user-attachments/assets/9857fc18-000d-4242-b912-fa639a4a4a27" />
 
 
-A custom USB-to-UART converter PCB designed using **KiCad 10**.
+A custom USB-to-UART converter PCB designed using **KiCad 10.0.04**.
 
 This project implements a USB-to-serial communication interface using the FT232RL USB-to-UART bridge IC. The PCB provides a USB Mini-B connection and a dedicated UART output header for interfacing with external embedded systems, microcontrollers, and development boards.
 
