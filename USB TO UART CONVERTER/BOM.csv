@@ -1,4 +1,4 @@
-Reference,Quantity,Value,Footprint,Manufacturer Part Number
+Reference,Quantity,Value,Footprint
 U1,1,FT232RL,Package_SO:SSOP-28_5.3x10.2mm_P0.65mm,
 J1,1,USB_B,Connector_USB:USB_Mini-B_Lumberg_2486_01_Horizontal,
 J2,1,Jumper,Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical,
