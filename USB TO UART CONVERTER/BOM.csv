@@ -1,0 +1,12 @@
+Reference,Quantity,Value,Footprint,Manufacturer Part Number
+U1,1,FT232RL,Package_SO:SSOP-28_5.3x10.2mm_P0.65mm,
+J1,1,USB_B,Connector_USB:USB_Mini-B_Lumberg_2486_01_Horizontal,
+J2,1,Jumper,Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical,
+J3,1,UART Out,Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Vertical_SMD_Pin1Left,
+FB1,1,FerriteBead,Ferrite_THT:LairdTech_28C0236-0JW-10,
+D1,1,LED_RGB,LED_SMD:LED_RGB_5050-6,
+C1,1,10nF,Capacitor_THT:CP_Radial_D4.0mm_P1.50mm,
+C2 C4 C5,3,0.1uF,Capacitor_THT:CP_Radial_D4.0mm_P1.50mm,
+C3,1,C_Polarized,Capacitor_THT:CP_Radial_D4.0mm_P1.50mm,
+R1,1,10K,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,
+R2 R3,2,330,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,
